@@ -1,0 +1,6 @@
+{
+  "name": "FokusKu - Student Study & Task Planner",
+  "description": "Aplikasi manajemen tugas kuliah, jadwal agenda harian, dan fokus Pomodoro timer untuk mahasiswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
